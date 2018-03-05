@@ -213,24 +213,6 @@ body {
 	float: left;
 	padding-right: 20px;
 }
-
-.cols50 img {
-	width: 100%;
-}
-
-.cols501 {
-	width: 49%;
-	float: left;
-	margin-right: 10px;
-}
-.cols502 {
-	width: 49%;
-	float: left;
-}
-.salerow2 img{
-	margin-top: 8px;
-}
-
 .topfooter {
 	background: #007d43;
     padding: 60px 0;
