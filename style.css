@@ -378,3 +378,18 @@ body {
 	text-align: center;
 	text-transform: uppercase;
 }
+.likecomment h3 {
+	padding: 25px 0;
+	text-align:center;
+}
+
+.likeshare {
+	width: 45%;
+	float: left;
+	margin-right: 10px;
+}
+.comment {
+	width: 50%;
+	float:right;
+	margin-left: 10px;
+}
